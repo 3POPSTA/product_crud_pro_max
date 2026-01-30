@@ -1,0 +1,9 @@
+{
+    "name": "ac-lumorlove/product_crud_pro_max",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
